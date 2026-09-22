@@ -17,23 +17,7 @@ This repository documents and stores work completed for the subject, including:
 - `lab_activity3.py` — Python script that defines a `Student` class and displays information about a student profile.
 - `.vscode/` — editor configuration files.
 
-## Python Example
-
-The repository includes a simple Python activity that models a student and prints their profile information.
-
-```bash
-python lab_activity3.py
-```
-
-This script creates a `Student` object for Christine Arroyo and prints:
-
-- Name
-- Course
-- Section
-- Favorite AI technology
-- Future AI project
-
-## Sample Output
+## About Me
 
 ```text
 Name: Christine Arroyo
